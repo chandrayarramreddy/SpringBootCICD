@@ -21,6 +21,6 @@ public class DemoApplication {
     }
 	@RequestMapping("/")
     public String home(){
-        return "Hello World Spring!";
+        return "Hello World Spring in AWS Deploy!";
     }
 }
